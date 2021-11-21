@@ -2,7 +2,6 @@
 window.onload = function() {
     alert("hello world!");
     saludo();
-    buttonOpacity();
 }
 
 //ej2
